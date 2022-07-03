@@ -11,7 +11,6 @@ It consists of:
 2. Depth data
 3. Skeletal Posture
 
-You can get the dataset [here](https://www3.cs.stonybrook.edu/~kyun/research/kinect_interaction/index.html).
 
 ## How to use the Model
 
